@@ -1,0 +1,29 @@
+body {
+    font-family: 'Times New Roman', Times, serif; /* This is optional, for better text readability */
+    padding: 20px; /* A bit of spacing around the body content */
+    background-color: #e0f7fa;
+}
+
+header h1 {
+    text-align: center; /* Align the main title to the center */
+}
+
+section {
+    border: 2px solid black; /* Add a solid black border */
+    margin-top: 20px; /* Space between sections */
+    padding: 15px; /* Space inside the section, between the border and the content */
+    border-radius: 5px; /* Rounded borders */
+}
+
+
+#experience {
+
+    border: 3px solid black; /* A bit darker, more prominent border for 'My Web Experience' */
+    padding: 20px; 
+    margin-bottom: 20px;
+    font-size: 18px;
+}
+
+#about-me-section {
+    font-size: 18px;
+}
